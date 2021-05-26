@@ -4,7 +4,7 @@ print(" ---------------")
 print("|Snake Water Gun|")
 print(" ---------------")
 
-listShape = ["S", "W", "G"]
+listShape = ["S", "W", "G"]z
 
 userScore = 0
 computerScore = 0
